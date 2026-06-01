@@ -1,10 +1,10 @@
-# Amazon Price Tracker
+# E-Commerce Price Tracker
 
-A Python project that tracks Amazon product prices and stores the data using SQLite.
+A Python project that tracks ecommerce website product prices and stores the data using SQLite.
 
 ## Features
 
-* Scrapes Amazon product prices
+* Scrapes product prices
 * Stores data in database
 * Tracks price changes
 * Sends notifications
